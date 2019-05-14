@@ -1,0 +1,10 @@
+﻿  ScannerSDK.cpp
+    正在创建库 D:\BaiduNetdiskDownload\ScannerSDK\x64\Release\ScannerSDK.lib 和对象 D:\BaiduNetdiskDownload\ScannerSDK\x64\Release\ScannerSDK.exp
+  正在生成代码
+d:\baidunetdiskdownload\scannersdk\scannersdk\scannersdk.cpp(108): warning C4715: “openScanner”: 不是所有的控件路径都返回值
+  1 of 102 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ScannerSDK.vcxproj -> D:\BaiduNetdiskDownload\ScannerSDK\x64\Release\ScannerSDK.dll
+  ScannerSDK.vcxproj -> D:\BaiduNetdiskDownload\ScannerSDK\x64\Release\ScannerSDK.pdb (Full PDB)

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScannerSDK", "ScannerSDK\ScannerSDK.vcxproj", "{45464BFA-2930-45C1-B491-D205DB34CCE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDKTest", "SDKTest\SDKTest.vcxproj", "{73C830E2-D812-4F2B-BC60-015180EA7CC9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YiruiScanner", "YiruiScanner\YiruiScanner.vcxproj", "{5FCAB87A-49D0-4B09-9000-9D05A1CDAB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45464BFA-2930-45C1-B491-D205DB34CCE0}.Debug|x64.ActiveCfg = Debug|x64
+		{45464BFA-2930-45C1-B491-D205DB34CCE0}.Debug|x64.Build.0 = Debug|x64
+		{45464BFA-2930-45C1-B491-D205DB34CCE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{45464BFA-2930-45C1-B491-D205DB34CCE0}.Debug|x86.Build.0 = Debug|Win32
+		{45464BFA-2930-45C1-B491-D205DB34CCE0}.Release|x64.ActiveCfg = Release|x64
+		{45464BFA-2930-45C1-B491-D205DB34CCE0}.Release|x64.Build.0 = Release|x64
+		{45464BFA-2930-45C1-B491-D205DB34CCE0}.Release|x86.ActiveCfg = Release|Win32
+		{45464BFA-2930-45C1-B491-D205DB34CCE0}.Release|x86.Build.0 = Release|Win32
+		{73C830E2-D812-4F2B-BC60-015180EA7CC9}.Debug|x64.ActiveCfg = Debug|x64
+		{73C830E2-D812-4F2B-BC60-015180EA7CC9}.Debug|x64.Build.0 = Debug|x64
+		{73C830E2-D812-4F2B-BC60-015180EA7CC9}.Debug|x86.ActiveCfg = Debug|Win32
+		{73C830E2-D812-4F2B-BC60-015180EA7CC9}.Debug|x86.Build.0 = Debug|Win32
+		{73C830E2-D812-4F2B-BC60-015180EA7CC9}.Release|x64.ActiveCfg = Release|x64
+		{73C830E2-D812-4F2B-BC60-015180EA7CC9}.Release|x64.Build.0 = Release|x64
+		{73C830E2-D812-4F2B-BC60-015180EA7CC9}.Release|x86.ActiveCfg = Release|Win32
+		{73C830E2-D812-4F2B-BC60-015180EA7CC9}.Release|x86.Build.0 = Release|Win32
+		{5FCAB87A-49D0-4B09-9000-9D05A1CDAB4C}.Debug|x64.ActiveCfg = Debug|x64
+		{5FCAB87A-49D0-4B09-9000-9D05A1CDAB4C}.Debug|x64.Build.0 = Debug|x64
+		{5FCAB87A-49D0-4B09-9000-9D05A1CDAB4C}.Debug|x86.ActiveCfg = Debug|Win32
+		{5FCAB87A-49D0-4B09-9000-9D05A1CDAB4C}.Debug|x86.Build.0 = Debug|Win32
+		{5FCAB87A-49D0-4B09-9000-9D05A1CDAB4C}.Release|x64.ActiveCfg = Release|x64
+		{5FCAB87A-49D0-4B09-9000-9D05A1CDAB4C}.Release|x64.Build.0 = Release|x64
+		{5FCAB87A-49D0-4B09-9000-9D05A1CDAB4C}.Release|x86.ActiveCfg = Release|Win32
+		{5FCAB87A-49D0-4B09-9000-9D05A1CDAB4C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
